@@ -1,0 +1,13 @@
+pandas
+numpy
+requests
+beautifulsoup4
+selenium
+sqlalchemy
+matplotlib
+seaborn
+plotly
+dash
+streamlit
+scikit-learn
+openpyxl
